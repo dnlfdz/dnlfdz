@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Dan
 
 ## About Me
-Product Manager interested in Machine Learning  security
+Product Manager currently building @ Edera.dev
+LinkedIn: https://www.linkedin.com/in/dafdz/
+BlueSky: dnlfdz.bsky.social
+InfosecExchange: https://infosec.exchange/deck/@danielfernandez
 
-Learn more about my experience on LinkedIn: https://www.linkedin.com/in/dafdz/
-
-## Writing... sometimes
+## Writing... sometimes non-work stuff
 https://danielfernandez.medium.com/
-
